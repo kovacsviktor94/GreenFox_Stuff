@@ -1,0 +1,42 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    line-height: 1.7;
+    box-sizing: border-box;
+}
+header {
+    background-color: #333333;
+    margin-left:auto;
+    height: 50px;
+}
+main{
+    margin-left: 5cm;
+}
+.title {
+    margin-left: 5cm;
+    color: white;
+    font-size: 30px;   
+}
+.new-post {
+    font-size: 20px;
+    padding-top: 10px;
+    
+}
+.task {
+    font-size: 15px;
+    padding-top: 10px;
+    font-weight: bold;
+}
+.content {
+    font-size: 15px;
+    padding-top: 10px;
+    color: silver;
+    border: black;
+    border-style: double;
+    border-radius: 15px;
+    padding: 10px;
+    width: 20cm;
+}
+.cta {
+    padding-top: 10px;
+}
